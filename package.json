@@ -1,0 +1,22 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node fs.js",
+    "serverq": "node server.js",
+    "koa": "node koa.js"
+  },
+  "dependencies": {
+    "async": "^3.1.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "iconv-lite": "^0.5.0",
+    "lodash": "^4.17.11",
+    "request": "^2.88.0",
+    "single-line-log": "^1.1.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
